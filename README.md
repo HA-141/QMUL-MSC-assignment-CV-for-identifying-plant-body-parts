@@ -23,3 +23,24 @@ All of the models are trained using the KewMNIST dataset (not publicly available
 ### Basic EDA - Label Distribution
 ![Label Dist for KewMNIST dataset](https://github.com/HA-141/QMUL-MSC-assignment-CV-for-identifying-plant-body-parts/blob/main/images/KewMNIST_Label_Dist.png)
 
+Each models is trained on a train-test split of 120 training samples stratified by their label and used least confidence active learning until training data reached 90% of total dataset
+
+### Model accuracy and loss over iterations
+
+** Basic NN **
+![BNN Performance](https://github.com/HA-141/QMUL-MSC-assignment-CV-for-identifying-plant-body-parts/blob/main/images/Basic_NN_performance.png)
+
+** Small NN **
+![SNN Performance](https://github.com/HA-141/QMUL-MSC-assignment-CV-for-identifying-plant-body-parts/blob/main/images/Small_NN_performance.png)
+
+** Big NN **
+![BNN Performance](https://github.com/HA-141/QMUL-MSC-assignment-CV-for-identifying-plant-body-parts/blob/main/images/Big_NN_performance.png)
+
+** CNN **
+![CNN Performance](https://github.com/HA-141/QMUL-MSC-assignment-CV-for-identifying-plant-body-parts/blob/main/images/CNN_performance.png)
+
+** MCC Scores over iterations for every model **
+![MCC scores](https://github.com/HA-141/QMUL-MSC-assignment-CV-for-identifying-plant-body-parts/blob/main/images/MCC_for_all_models.png)
+
+** F1 scores over iterations for every model
+![F1 Scores](https://github.com/HA-141/QMUL-MSC-assignment-CV-for-identifying-plant-body-parts/blob/main/images/F1_for_all_models.png)
