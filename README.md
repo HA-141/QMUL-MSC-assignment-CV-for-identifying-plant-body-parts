@@ -21,5 +21,5 @@ Version of python and supporting libraries:
 All of the models are trained using the KewMNIST dataset (not publicly available)
 
 ### Basic EDA - Label Distribution
-[Label Dist for KewMNIST dataset](https://github.com/HA-141/QMUL-MSC-assignment-CV-for-identifying-plant-body-parts/blob/main/images/KewMNIST_Label_Dist.png)
+![Label Dist for KewMNIST dataset](https://github.com/HA-141/QMUL-MSC-assignment-CV-for-identifying-plant-body-parts/blob/main/images/KewMNIST_Label_Dist.png)
 
