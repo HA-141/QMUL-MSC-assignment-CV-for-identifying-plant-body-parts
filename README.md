@@ -27,26 +27,26 @@ Each models is trained on a train-test split of 120 training samples stratified 
 
 ## Model accuracy and loss over iterations
 
-** Basic NN **
+### Basic NN
 
 ![BNN Performance](https://github.com/HA-141/QMUL-MSC-assignment-CV-for-identifying-plant-body-parts/blob/main/images/Basic_NN_performance.png)
 
-** Small NN **
+### Small NN 
 
 ![SNN Performance](https://github.com/HA-141/QMUL-MSC-assignment-CV-for-identifying-plant-body-parts/blob/main/images/Small_NN_performance.png)
 
-** Big NN **
+### Big NN 
 
 ![BNN Performance](https://github.com/HA-141/QMUL-MSC-assignment-CV-for-identifying-plant-body-parts/blob/main/images/Big_NN_performance.png)
 
-** CNN **
+### CNN
 
 ![CNN Performance](https://github.com/HA-141/QMUL-MSC-assignment-CV-for-identifying-plant-body-parts/blob/main/images/CNN_performance.png)
 
-** MCC Scores over iterations for every model **
+### MCC Scores over iterations for every model 
 
 ![MCC scores](https://github.com/HA-141/QMUL-MSC-assignment-CV-for-identifying-plant-body-parts/blob/main/images/MCC_for_all_models.png)
 
-** F1 scores over iterations for every model
+### F1 scores over iterations for every model
 
 ![F1 Scores](https://github.com/HA-141/QMUL-MSC-assignment-CV-for-identifying-plant-body-parts/blob/main/images/F1_for_all_models.png)
