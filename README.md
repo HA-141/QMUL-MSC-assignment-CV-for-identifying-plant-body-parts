@@ -29,7 +29,7 @@ Each models is trained on a train-test split of 120 training samples stratified 
 
 ### Basic NN
 
-<img src="https://raw.githubusercontent.com/HA-141/QMUL-MSC-assignment-CV-for-identifying-plant-body-parts/main/images/Basic_NN_performance.png" width="500" height="300">
+<img src="https://raw.githubusercontent.com/HA-141/QMUL-MSC-assignment-CV-for-identifying-plant-body-parts/main/images/Basic_NN_performance.png" width="600" height="600">
 
 ### Small NN 
 
